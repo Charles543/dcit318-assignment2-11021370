@@ -1,0 +1,14 @@
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.AssemblyInfoInputs.cache
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.AssemblyInfo.cs
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.csproj.CoreCompileInputs.cache
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\bin\Debug\net9.0\dcit318-assignment2-11021370.exe
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\bin\Debug\net9.0\dcit318-assignment2-11021370.deps.json
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\bin\Debug\net9.0\dcit318-assignment2-11021370.runtimeconfig.json
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\bin\Debug\net9.0\dcit318-assignment2-11021370.dll
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\bin\Debug\net9.0\dcit318-assignment2-11021370.pdb
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.dll
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\refint\dcit318-assignment2-11021370.dll
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.pdb
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\dcit318-assignment2-11021370.genruntimeconfig.cache
+C:\Users\akpem\Desktop\DCIT 202 Project\dcit318-assignment2-11021370\obj\Debug\net9.0\ref\dcit318-assignment2-11021370.dll
